@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MariamRizvi01
 - 👀 I’m interested in seeking into future internships and cool opportunities to inspire my growth!
-- 🌱 I’m currently learning Machine Learning!
+- 🌱 I’m currently learning and creating projects with Java!
 - 💞️ I’m looking to collaborate on any group collaborative projects involving with Java, Python, R, and etc.
-- 📫 How to reach me ... Please e-mail me if you have any questions, comments, or concerns. If references needed please don't hesistate to reach out. MZR200002@utdallas.edu
+- 📫 How to reach me ... Please e-mail me if you have any questions, comments, or concerns. If references needed please don't hesistate to reach out. Miriamrizviofficial@gmail.com
 
 
 <!---
